@@ -1,0 +1,135 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Plumber",
+    "HomeAndConstructionBusiness",
+    "LocalBusiness"
+  ],
+  "@id": "https://andrey0002.github.io/pristine-plumbing-encino/A9_verdugo-plumber-glendale-drain-sewer-service/#organization",
+  "name": "Verdugo Plumber Glendale - Drain & Sewer Service",
+  "url": "https://andrey0002.github.io/pristine-plumbing-encino/A9_verdugo-plumber-glendale-drain-sewer-service/",
+  "telephone": "+1-818-696-3310",
+  "priceRange": "$$",
+  "identifier": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "target_id",
+      "value": "A9"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "gbp_lid",
+      "value": "00661467476362432597"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "gbp_int_id",
+      "value": "2254484390015953222"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "geostore_feature_id",
+      "value": "0x80c2c05d068f41e7:0xb84780d0b1797377"
+    }
+  ],
+  "hasMap": "https://www.google.com/maps?cid=0x80c2c05d068f41e7:0xb84780d0b1797377",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5420 San Fernando Rd",
+    "addressLocality": "Glendale",
+    "addressRegion": "CA",
+    "postalCode": "91203",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.1505203,
+    "longitude": -118.27372559999999
+  },
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Eagle Rock"
+    },
+    {
+      "@type": "City",
+      "name": "Atwater Village"
+    }
+  ],
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "07:00",
+      "closes": "23:00"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Residential & Commercial Plumbing Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Drain Cleaning & Hydro Jetting"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Water Heater Installation & Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Leak Detection & Pipe Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Sewer Line Repair & Trenchless Relining"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Toilet, Faucet & Fixture Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "24/7 Emergency Plumbing Dispatch"
+        }
+      }
+    ]
+  }
+}

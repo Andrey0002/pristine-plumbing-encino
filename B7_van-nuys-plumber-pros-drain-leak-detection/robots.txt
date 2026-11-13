@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andrey0002.github.io/pristine-plumbing-encino/B7_van-nuys-plumber-pros-drain-leak-detection/sitemap.xml

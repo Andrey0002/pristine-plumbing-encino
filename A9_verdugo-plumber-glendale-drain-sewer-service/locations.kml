@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Verdugo Plumber Glendale - Drain &amp; Sewer Service</name>
+    <Placemark>
+      <name>Verdugo Plumber Glendale - Drain &amp; Sewer Service</name>
+      <address>5420 San Fernando Rd, Glendale, CA 91203</address>
+      <phoneNumber>+1-818-696-3310</phoneNumber>
+      <ExtendedData>
+        <Data name="target_id"><value>A9</value></Data>
+        <Data name="lid"><value>00661467476362432597</value></Data>
+        <Data name="int_id"><value>2254484390015953222</value></Data>
+        <Data name="feature_id"><value>0x80c2c05d068f41e7:0xb84780d0b1797377</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-118.27372559999999,34.1505203,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

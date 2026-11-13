@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Van Nuys Plumber Pros - Drain &amp; Leak Detection</name>
+    <Placemark>
+      <name>Van Nuys Plumber Pros - Drain &amp; Leak Detection</name>
+      <address>14641 Aetna St, Van Nuys, CA 91411</address>
+      <phoneNumber>+1-818-741-5184</phoneNumber>
+      <ExtendedData>
+        <Data name="target_id"><value>B7</value></Data>
+        <Data name="lid"><value>03513278946711943694</value></Data>
+        <Data name="int_id"><value>9810667723850983336</value></Data>
+        <Data name="feature_id"><value>0x80c2970816b5f729:0x4657a78bf54a2bd</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-118.4525444,34.180232499999995,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

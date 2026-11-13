@@ -1,0 +1,135 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Plumber",
+    "HomeAndConstructionBusiness",
+    "LocalBusiness"
+  ],
+  "@id": "https://andrey0002.github.io/pristine-plumbing-encino/A7_done-right-plumber-van-nuys-emergency-drain-cleaning/#organization",
+  "name": "Done Right Plumber Van Nuys - Emergency Drain Cleaning",
+  "url": "https://andrey0002.github.io/pristine-plumbing-encino/A7_done-right-plumber-van-nuys-emergency-drain-cleaning/",
+  "telephone": "+1-818-741-5023",
+  "priceRange": "$$",
+  "identifier": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "target_id",
+      "value": "A7"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "gbp_lid",
+      "value": "09436898112090775798"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "gbp_int_id",
+      "value": "12902152531604211098"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "geostore_feature_id",
+      "value": "0x80c29708381b7e13:0x2704a6c50dd8cde5"
+    }
+  ],
+  "hasMap": "https://www.google.com/maps?cid=0x80c29708381b7e13:0x2704a6c50dd8cde5",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "14705 Aetna St",
+    "addressLocality": "Van Nuys",
+    "addressRegion": "CA",
+    "postalCode": "91411",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.1802267,
+    "longitude": -118.4533821
+  },
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Sherman Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    }
+  ],
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "07:00",
+      "closes": "23:00"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Residential & Commercial Plumbing Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Drain Cleaning & Hydro Jetting"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Water Heater Installation & Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Leak Detection & Pipe Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Sewer Line Repair & Trenchless Relining"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Toilet, Faucet & Fixture Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "24/7 Emergency Plumbing Dispatch"
+        }
+      }
+    ]
+  }
+}

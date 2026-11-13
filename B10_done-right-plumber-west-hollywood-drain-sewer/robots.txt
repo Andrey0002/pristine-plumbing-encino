@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andrey0002.github.io/pristine-plumbing-encino/B10_done-right-plumber-west-hollywood-drain-sewer/sitemap.xml

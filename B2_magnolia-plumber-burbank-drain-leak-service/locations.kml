@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Magnolia Plumber Burbank - Drain &amp; Leak Service</name>
+    <Placemark>
+      <name>Magnolia Plumber Burbank - Drain &amp; Leak Service</name>
+      <address>511 S Flower St, Burbank, CA 91502</address>
+      <phoneNumber>+1-818-639-4288</phoneNumber>
+      <ExtendedData>
+        <Data name="target_id"><value>B2</value></Data>
+        <Data name="lid"><value>04976486739595515965</value></Data>
+        <Data name="int_id"><value>12349608637252416984</value></Data>
+        <Data name="feature_id"><value>0x80c2bffd840da81f:0x9961408041c514f4</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-118.3077924,34.174423,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

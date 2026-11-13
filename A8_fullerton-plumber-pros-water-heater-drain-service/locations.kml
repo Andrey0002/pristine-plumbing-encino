@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Fullerton Plumber Pros - Water Heater &amp; Drain Service</name>
+    <Placemark>
+      <name>Fullerton Plumber Pros - Water Heater &amp; Drain Service</name>
+      <address>409 W Commonwealth Ave, Fullerton, CA 92832</address>
+      <phoneNumber>+1-714-905-6140</phoneNumber>
+      <ExtendedData>
+        <Data name="target_id"><value>A8</value></Data>
+        <Data name="lid"><value>09730688018758078098</value></Data>
+        <Data name="int_id"><value>11522800874422523624</value></Data>
+        <Data name="feature_id"><value>0x80dd2a0edf3467b5:0x3534fda937d407d5</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-117.93189419999999,33.8705517,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

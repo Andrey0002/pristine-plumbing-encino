@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Pristine Plumber Santa Clarita - Water Heater &amp; Drain</name>
+    <Placemark>
+      <name>Pristine Plumber Santa Clarita - Water Heater &amp; Drain</name>
+      <address>24747 Railroad Ave, Santa Clarita, CA 91321</address>
+      <phoneNumber>+1-661-430-2814</phoneNumber>
+      <ExtendedData>
+        <Data name="target_id"><value>A5</value></Data>
+        <Data name="lid"><value>09365394792905638088</value></Data>
+        <Data name="int_id"><value>4235590972897771062</value></Data>
+        <Data name="feature_id"><value>0x80c2865f91f1b03f:0xd6fa70df8af8e7ad</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-118.5323356,34.3853565,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

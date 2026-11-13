@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andrey0002.github.io/pristine-plumbing-encino/B2_magnolia-plumber-burbank-drain-leak-service/sitemap.xml

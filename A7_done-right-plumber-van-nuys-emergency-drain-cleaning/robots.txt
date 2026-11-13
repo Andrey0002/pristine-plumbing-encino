@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andrey0002.github.io/pristine-plumbing-encino/A7_done-right-plumber-van-nuys-emergency-drain-cleaning/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andrey0002.github.io/pristine-plumbing-encino/A10_pristine-plumber-west-hollywood-emergency-drain/sitemap.xml

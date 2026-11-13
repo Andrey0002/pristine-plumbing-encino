@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andrey0002.github.io/pristine-plumbing-encino/A1_pristine-plumber-burbank-drain-water-heater/sitemap.xml

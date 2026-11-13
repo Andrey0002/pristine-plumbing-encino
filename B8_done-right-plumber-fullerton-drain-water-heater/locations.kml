@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Done Right Plumber Fullerton - Drain &amp; Water Heater</name>
+    <Placemark>
+      <name>Done Right Plumber Fullerton - Drain &amp; Water Heater</name>
+      <address>617 W Commonwealth Ave, Fullerton, CA 92832</address>
+      <phoneNumber>+1-714-905-6211</phoneNumber>
+      <ExtendedData>
+        <Data name="target_id"><value>B8</value></Data>
+        <Data name="lid"><value>13392786238319396401</value></Data>
+        <Data name="int_id"><value>13379347441252959635</value></Data>
+        <Data name="feature_id"><value>0x80dd2a0e23ae0293:0x9fd82be59be284bd</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-117.93614439999999,33.8705329,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

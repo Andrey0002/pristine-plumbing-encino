@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andrey0002.github.io/pristine-plumbing-encino/B5_done-right-plumber-santa-clarita-emergency-drain/sitemap.xml

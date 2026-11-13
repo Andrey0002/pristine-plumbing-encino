@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andrey0002.github.io/pristine-plumbing-encino/A3_done-right-plumber-huntington-beach-drain-service/sitemap.xml

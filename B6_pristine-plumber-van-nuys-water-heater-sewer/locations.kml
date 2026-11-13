@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Pristine Plumber Van Nuys - Water Heater &amp; Sewer</name>
+    <Placemark>
+      <name>Pristine Plumber Van Nuys - Water Heater &amp; Sewer</name>
+      <address>7614 Sepulveda Blvd, Van Nuys, CA 91405</address>
+      <phoneNumber>+1-818-741-5109</phoneNumber>
+      <ExtendedData>
+        <Data name="target_id"><value>B6</value></Data>
+        <Data name="lid"><value>01282198800655540300</value></Data>
+        <Data name="int_id"><value>3304677730971285603</value></Data>
+        <Data name="feature_id"><value>0x80c2974855e8e791:0xe9f276d1afb156ac</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-118.46604049999999,34.2089991,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

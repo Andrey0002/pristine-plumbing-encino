@@ -1,0 +1,135 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Plumber",
+    "HomeAndConstructionBusiness",
+    "LocalBusiness"
+  ],
+  "@id": "https://andrey0002.github.io/pristine-plumbing-encino/A8_fullerton-plumber-pros-water-heater-drain-service/#organization",
+  "name": "Fullerton Plumber Pros - Water Heater & Drain Service",
+  "url": "https://andrey0002.github.io/pristine-plumbing-encino/A8_fullerton-plumber-pros-water-heater-drain-service/",
+  "telephone": "+1-714-905-6140",
+  "priceRange": "$$",
+  "identifier": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "target_id",
+      "value": "A8"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "gbp_lid",
+      "value": "09730688018758078098"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "gbp_int_id",
+      "value": "11522800874422523624"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "geostore_feature_id",
+      "value": "0x80dd2a0edf3467b5:0x3534fda937d407d5"
+    }
+  ],
+  "hasMap": "https://www.google.com/maps?cid=0x80dd2a0edf3467b5:0x3534fda937d407d5",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "409 W Commonwealth Ave",
+    "addressLocality": "Fullerton",
+    "addressRegion": "CA",
+    "postalCode": "92832",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.8705517,
+    "longitude": -117.93189419999999
+  },
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Fullerton"
+    },
+    {
+      "@type": "City",
+      "name": "Anaheim"
+    },
+    {
+      "@type": "City",
+      "name": "Brea"
+    },
+    {
+      "@type": "City",
+      "name": "Placentia"
+    },
+    {
+      "@type": "City",
+      "name": "Buena Park"
+    }
+  ],
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "07:00",
+      "closes": "23:00"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Residential & Commercial Plumbing Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Drain Cleaning & Hydro Jetting"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Water Heater Installation & Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Leak Detection & Pipe Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Sewer Line Repair & Trenchless Relining"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Toilet, Faucet & Fixture Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "24/7 Emergency Plumbing Dispatch"
+        }
+      }
+    ]
+  }
+}

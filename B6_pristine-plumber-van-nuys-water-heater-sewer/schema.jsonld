@@ -1,0 +1,135 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Plumber",
+    "HomeAndConstructionBusiness",
+    "LocalBusiness"
+  ],
+  "@id": "https://andrey0002.github.io/pristine-plumbing-encino/B6_pristine-plumber-van-nuys-water-heater-sewer/#organization",
+  "name": "Pristine Plumber Van Nuys - Water Heater & Sewer",
+  "url": "https://andrey0002.github.io/pristine-plumbing-encino/B6_pristine-plumber-van-nuys-water-heater-sewer/",
+  "telephone": "+1-818-741-5109",
+  "priceRange": "$$",
+  "identifier": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "target_id",
+      "value": "B6"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "gbp_lid",
+      "value": "01282198800655540300"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "gbp_int_id",
+      "value": "3304677730971285603"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "geostore_feature_id",
+      "value": "0x80c2974855e8e791:0xe9f276d1afb156ac"
+    }
+  ],
+  "hasMap": "https://www.google.com/maps?cid=0x80c2974855e8e791:0xe9f276d1afb156ac",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "7614 Sepulveda Blvd",
+    "addressLocality": "Van Nuys",
+    "addressRegion": "CA",
+    "postalCode": "91405",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.2089991,
+    "longitude": -118.46604049999999
+  },
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Sherman Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    }
+  ],
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "07:00",
+      "closes": "23:00"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Residential & Commercial Plumbing Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Drain Cleaning & Hydro Jetting"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Water Heater Installation & Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Leak Detection & Pipe Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Sewer Line Repair & Trenchless Relining"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Toilet, Faucet & Fixture Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "24/7 Emergency Plumbing Dispatch"
+        }
+      }
+    ]
+  }
+}

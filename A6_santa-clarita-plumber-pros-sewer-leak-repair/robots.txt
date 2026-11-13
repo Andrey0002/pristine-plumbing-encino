@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andrey0002.github.io/pristine-plumbing-encino/A6_santa-clarita-plumber-pros-sewer-leak-repair/sitemap.xml

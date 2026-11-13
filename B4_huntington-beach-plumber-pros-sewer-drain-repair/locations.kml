@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Huntington Beach Plumber Pros - Sewer &amp; Drain Repair</name>
+    <Placemark>
+      <name>Huntington Beach Plumber Pros - Sewer &amp; Drain Repair</name>
+      <address>17872 Gothard St, Huntington Beach, CA 92647</address>
+      <phoneNumber>+1-714-869-3387</phoneNumber>
+      <ExtendedData>
+        <Data name="target_id"><value>B4</value></Data>
+        <Data name="lid"><value>13881773448080206586</value></Data>
+        <Data name="int_id"><value>10628222272108695389</value></Data>
+        <Data name="feature_id"><value>0x80dd26938f8deaf1:0x8446e8ad0e76f071</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-117.9988722,33.7027383,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

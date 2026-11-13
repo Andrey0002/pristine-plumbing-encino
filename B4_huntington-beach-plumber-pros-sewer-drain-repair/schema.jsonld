@@ -1,0 +1,135 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Plumber",
+    "HomeAndConstructionBusiness",
+    "LocalBusiness"
+  ],
+  "@id": "https://andrey0002.github.io/pristine-plumbing-encino/B4_huntington-beach-plumber-pros-sewer-drain-repair/#organization",
+  "name": "Huntington Beach Plumber Pros - Sewer & Drain Repair",
+  "url": "https://andrey0002.github.io/pristine-plumbing-encino/B4_huntington-beach-plumber-pros-sewer-drain-repair/",
+  "telephone": "+1-714-869-3387",
+  "priceRange": "$$",
+  "identifier": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "target_id",
+      "value": "B4"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "gbp_lid",
+      "value": "13881773448080206586"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "gbp_int_id",
+      "value": "10628222272108695389"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "geostore_feature_id",
+      "value": "0x80dd26938f8deaf1:0x8446e8ad0e76f071"
+    }
+  ],
+  "hasMap": "https://www.google.com/maps?cid=0x80dd26938f8deaf1:0x8446e8ad0e76f071",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "17872 Gothard St",
+    "addressLocality": "Huntington Beach",
+    "addressRegion": "CA",
+    "postalCode": "92647",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.7027383,
+    "longitude": -117.9988722
+  },
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Huntington Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Fountain Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Costa Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Westminster"
+    },
+    {
+      "@type": "City",
+      "name": "Newport Beach"
+    }
+  ],
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "07:00",
+      "closes": "23:00"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Residential & Commercial Plumbing Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Drain Cleaning & Hydro Jetting"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Water Heater Installation & Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Leak Detection & Pipe Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Sewer Line Repair & Trenchless Relining"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Toilet, Faucet & Fixture Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "24/7 Emergency Plumbing Dispatch"
+        }
+      }
+    ]
+  }
+}

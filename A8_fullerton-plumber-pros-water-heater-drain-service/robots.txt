@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andrey0002.github.io/pristine-plumbing-encino/A8_fullerton-plumber-pros-water-heater-drain-service/sitemap.xml

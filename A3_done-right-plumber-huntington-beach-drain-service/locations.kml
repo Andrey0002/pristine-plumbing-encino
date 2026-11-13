@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Done Right Plumber Huntington Beach - Drain Service</name>
+    <Placemark>
+      <name>Done Right Plumber Huntington Beach - Drain Service</name>
+      <address>17552 Gothard St, Huntington Beach, CA 92647</address>
+      <phoneNumber>+1-714-869-3204</phoneNumber>
+      <ExtendedData>
+        <Data name="target_id"><value>A3</value></Data>
+        <Data name="lid"><value>14346894125382667411</value></Data>
+        <Data name="int_id"><value>8778221753489997727</value></Data>
+        <Data name="feature_id"><value>0x80dd268df47f1699:0x2ba2ad4cb92c972e</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-117.9996889,33.7074455,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

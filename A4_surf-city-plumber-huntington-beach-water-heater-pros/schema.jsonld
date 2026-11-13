@@ -1,0 +1,135 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Plumber",
+    "HomeAndConstructionBusiness",
+    "LocalBusiness"
+  ],
+  "@id": "https://andrey0002.github.io/pristine-plumbing-encino/A4_surf-city-plumber-huntington-beach-water-heater-pros/#organization",
+  "name": "Surf City Plumber Huntington Beach - Water Heater Pros",
+  "url": "https://andrey0002.github.io/pristine-plumbing-encino/A4_surf-city-plumber-huntington-beach-water-heater-pros/",
+  "telephone": "+1-714-869-3291",
+  "priceRange": "$$",
+  "identifier": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "target_id",
+      "value": "A4"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "gbp_lid",
+      "value": "06315276789576845325"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "gbp_int_id",
+      "value": "11039070935199440652"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "geostore_feature_id",
+      "value": "0x80dd268db7d58637:0x9dd573ec1d9c65e8"
+    }
+  ],
+  "hasMap": "https://www.google.com/maps?cid=0x80dd268db7d58637:0x9dd573ec1d9c65e8",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "17422 Gothard St",
+    "addressLocality": "Huntington Beach",
+    "addressRegion": "CA",
+    "postalCode": "92647",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.709264499999996,
+    "longitude": -117.9995891
+  },
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Huntington Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Fountain Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Costa Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Westminster"
+    },
+    {
+      "@type": "City",
+      "name": "Newport Beach"
+    }
+  ],
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "07:00",
+      "closes": "23:00"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Residential & Commercial Plumbing Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Drain Cleaning & Hydro Jetting"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Water Heater Installation & Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Leak Detection & Pipe Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Sewer Line Repair & Trenchless Relining"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Toilet, Faucet & Fixture Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "24/7 Emergency Plumbing Dispatch"
+        }
+      }
+    ]
+  }
+}

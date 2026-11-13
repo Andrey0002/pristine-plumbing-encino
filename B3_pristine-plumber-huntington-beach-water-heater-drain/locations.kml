@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Pristine Plumber Huntington Beach - Water Heater &amp; Drain</name>
+    <Placemark>
+      <name>Pristine Plumber Huntington Beach - Water Heater &amp; Drain</name>
+      <address>17432 Gothard St, Huntington Beach, CA 92647</address>
+      <phoneNumber>+1-714-869-3340</phoneNumber>
+      <ExtendedData>
+        <Data name="target_id"><value>B3</value></Data>
+        <Data name="lid"><value>18277038303063945551</value></Data>
+        <Data name="int_id"><value>17896688327547572835</value></Data>
+        <Data name="feature_id"><value>0x80dd268db896c0eb:0x77ea1494b8d6523d</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-117.99952259999999,33.7088958,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

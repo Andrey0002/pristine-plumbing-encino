@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andrey0002.github.io/pristine-plumbing-encino/A5_pristine-plumber-santa-clarita-water-heater-drain/sitemap.xml

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Pristine Plumber Burbank - Drain &amp; Water Heater</name>
+    <Placemark>
+      <name>Pristine Plumber Burbank - Drain &amp; Water Heater</name>
+      <address>2205 N Hollywood Way, Burbank, CA 91505</address>
+      <phoneNumber>+1-818-639-4102</phoneNumber>
+      <ExtendedData>
+        <Data name="target_id"><value>A1</value></Data>
+        <Data name="lid"><value>00107667700228359194</value></Data>
+        <Data name="int_id"><value>18178467402984860118</value></Data>
+        <Data name="feature_id"><value>0x80c295a11f5d98a1:0x90d1d422ef221fd8</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-118.3493908,34.188890199999996,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

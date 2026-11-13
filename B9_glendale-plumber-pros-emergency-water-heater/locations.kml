@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Glendale Plumber Pros - Emergency &amp; Water Heater</name>
+    <Placemark>
+      <name>Glendale Plumber Pros - Emergency &amp; Water Heater</name>
+      <address>473 W Colorado St, Glendale, CA 91204</address>
+      <phoneNumber>+1-818-696-3402</phoneNumber>
+      <ExtendedData>
+        <Data name="target_id"><value>B9</value></Data>
+        <Data name="lid"><value>08287147596837368269</value></Data>
+        <Data name="int_id"><value>1341209839704532164</value></Data>
+        <Data name="feature_id"><value>0x80c2c0f82f4b2f81:0x218237adfa25746c</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-118.26402429999999,34.142828,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

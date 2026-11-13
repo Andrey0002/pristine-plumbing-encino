@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Pristine Plumber West Hollywood - Emergency &amp; Drain</name>
+    <Placemark>
+      <name>Pristine Plumber West Hollywood - Emergency &amp; Drain</name>
+      <address>7916 Santa Monica Blvd, West Hollywood, CA 90046</address>
+      <phoneNumber>+1-323-610-4418</phoneNumber>
+      <ExtendedData>
+        <Data name="target_id"><value>A10</value></Data>
+        <Data name="lid"><value>05787186391098130237</value></Data>
+        <Data name="int_id"><value>3992296067194924386</value></Data>
+        <Data name="feature_id"><value>0x80c2bec5949785ab:0x8d82c0be5d60d5fb</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-118.362172,34.090548,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

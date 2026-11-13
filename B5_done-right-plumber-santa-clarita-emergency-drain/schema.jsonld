@@ -1,0 +1,135 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Plumber",
+    "HomeAndConstructionBusiness",
+    "LocalBusiness"
+  ],
+  "@id": "https://andrey0002.github.io/pristine-plumbing-encino/B5_done-right-plumber-santa-clarita-emergency-drain/#organization",
+  "name": "Done Right Plumber Santa Clarita - Emergency & Drain",
+  "url": "https://andrey0002.github.io/pristine-plumbing-encino/B5_done-right-plumber-santa-clarita-emergency-drain/",
+  "telephone": "+1-661-430-2915",
+  "priceRange": "$$",
+  "identifier": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "target_id",
+      "value": "B5"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "gbp_lid",
+      "value": "14678380627808825983"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "gbp_int_id",
+      "value": "4949523661606747621"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "geostore_feature_id",
+      "value": "0x80c28753fc2ac663:0xa0341e5ca1a4ddba"
+    }
+  ],
+  "hasMap": "https://www.google.com/maps?cid=0x80c28753fc2ac663:0xa0341e5ca1a4ddba",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "25221 Ave Tibbitts",
+    "addressLocality": "Santa Clarita",
+    "addressRegion": "CA",
+    "postalCode": "91355",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.4288381,
+    "longitude": -118.5741159
+  },
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Santa Clarita"
+    },
+    {
+      "@type": "City",
+      "name": "Valencia"
+    },
+    {
+      "@type": "City",
+      "name": "Newhall"
+    },
+    {
+      "@type": "City",
+      "name": "Saugus"
+    },
+    {
+      "@type": "City",
+      "name": "Canyon Country"
+    }
+  ],
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "07:00",
+      "closes": "23:00"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Residential & Commercial Plumbing Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Drain Cleaning & Hydro Jetting"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Water Heater Installation & Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Leak Detection & Pipe Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Sewer Line Repair & Trenchless Relining"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Toilet, Faucet & Fixture Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "24/7 Emergency Plumbing Dispatch"
+        }
+      }
+    ]
+  }
+}
