@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Fullerton Plumber Pros - Water Heater &amp; Drain Service</name>
+    <Placemark>
+      <name>Fullerton Plumber Pros - Water Heater &amp; Drain Service</name>
+      <address>641 W Commonwealth Ave, Fullerton, CA 92832</address>
+      <phoneNumber>7148693428</phoneNumber>
+      <Point><coordinates>-118.2437,33.8705858,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>
