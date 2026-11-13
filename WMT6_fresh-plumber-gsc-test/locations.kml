@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Pristine Plumber Burbank - Hydro Jetting &amp; Drain</name>
+    <Placemark>
+      <name>Pristine Plumber Burbank - Hydro Jetting &amp; Drain</name>
+      <address>2215 N Hollywood Way, Burbank, CA 91505</address>
+      <phoneNumber>+1-818-639-4391</phoneNumber>
+      <ExtendedData>
+        <Data name="target_id"><value>WMT6</value></Data>
+        <Data name="lid"><value>00000000000000000000</value></Data>
+        <Data name="int_id"><value>0000000000000000000</value></Data>
+        <Data name="feature_id"><value>0x80c295a11f5d98a1:0x90d1d422ef221fd8</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-118.3494502,34.1892105,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>
