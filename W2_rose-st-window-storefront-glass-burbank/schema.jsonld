@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": ["WindowInstallationService", "HomeAndConstructionBusiness", "LocalBusiness"],
+  "@id": "https://andrey0002.github.io/pristine-plumbing-encino/W2_rose-st-window-storefront-glass-burbank/#organization",
+  "name": "Rose St Window & Storefront Glass - Burbank",
+  "url": "https://andrey0002.github.io/pristine-plumbing-encino/W2_rose-st-window-storefront-glass-burbank/",
+  "telephone": "+1-818-639-4823",
+  "priceRange": "$$",
+  "address": {"@type": "PostalAddress", "streetAddress": "1924 N Rose St", "addressLocality": "Burbank", "addressRegion": "CA", "postalCode": "91505", "addressCountry": "US"},
+  "areaServed": {"@type": "Place", "name": "Burbank, California, USA"},
+  "geo": {"@type": "GeoCoordinates", "latitude": 34.1838828, "longitude": -118.3562164}
+}
