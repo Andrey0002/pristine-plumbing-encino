@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": ["WindowInstallationService", "HomeAndConstructionBusiness", "LocalBusiness"],
+  "@id": "https://andrey0002.github.io/pristine-plumbing-encino/M71_pristine-window-pro-encino-storefront-glass/#organization",
+  "name": "Pristine Window Pro Encino - Storefront & Glass",
+  "url": "https://andrey0002.github.io/pristine-plumbing-encino/M71_pristine-window-pro-encino-storefront-glass/",
+  "telephone": "+1-818-639-4823",
+  "priceRange": "$$",
+  "address": {"@type": "PostalAddress", "addressLocality": "Encino", "addressRegion": "CA", "addressCountry": "US"},
+  "areaServed": {"@type": "Place", "name": "Encino, Los Angeles, California, USA"},
+  "geo": {"@type": "GeoCoordinates", "latitude": 34.159784, "longitude": -118.500392}
+}
