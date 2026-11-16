@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andrey0002.github.io/pristine-plumbing-encino/d094-plano-04-drain-cleaning-plano-evergreen-rooter/sitemap.xml

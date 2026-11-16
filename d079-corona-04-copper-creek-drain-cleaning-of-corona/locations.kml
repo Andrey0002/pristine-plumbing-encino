@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Copper Creek Drain Cleaning of Corona</name>
+    <Placemark>
+      <name>Copper Creek Drain Cleaning of Corona</name>
+      <address>302 N McKinley St, Corona, CA 92879</address>
+      <Point><coordinates>-117.5198571,33.8880105,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

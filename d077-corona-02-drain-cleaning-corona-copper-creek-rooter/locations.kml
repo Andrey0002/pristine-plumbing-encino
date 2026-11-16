@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Drain Cleaning Corona - Copper Creek Rooter</name>
+    <Placemark>
+      <name>Drain Cleaning Corona - Copper Creek Rooter</name>
+      <address>2177 Sampson Ave, Corona, CA 92879</address>
+      <Point><coordinates>-117.5206979,33.8831343,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

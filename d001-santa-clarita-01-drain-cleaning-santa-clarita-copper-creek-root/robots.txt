@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andrey0002.github.io/pristine-plumbing-encino/d001-santa-clarita-01-drain-cleaning-santa-clarita-copper-creek-root/sitemap.xml

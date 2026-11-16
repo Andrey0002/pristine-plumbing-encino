@@ -1,0 +1,126 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Plumber",
+    "HomeAndConstructionBusiness",
+    "LocalBusiness"
+  ],
+  "@id": "https://andrey0002.github.io/pristine-plumbing-encino/d092-plano-02-harbor-drain-cleaning-of-plano/#organization",
+  "name": "Harbor Drain Cleaning of Plano",
+  "description": "Drain Cleaning Plano - Harbor Rooter provides fast same-day drain cleaning in Plano, TX for residential and commercial properties across Plano and nearby neighborhoods. When you have a backed-up main sewer line, slow kitchen sink, overflowing floor drain, or root intrusion, our Plano drain cleaning specialists respond quickly with clear upfront pricing. We specialize in 4,000 PSI hydro jetting in Plano, sewer camera inspection, rooter snaking, grease trap clearing, and emergency clogged drain service. Property owners trust Drain Cleaning Plano - Harbor Rooter for reliable drain cleaning in Plano backed by clean workmanship and lasting flow.",
+  "url": "https://andrey0002.github.io/pristine-plumbing-encino/d092-plano-02-harbor-drain-cleaning-of-plano/",
+  "priceRange": "$$",
+  "additionalType": "https://www.productontology.org/id/Drain_cleaner",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "7952 Legacy Dr",
+    "addressLocality": "Plano",
+    "addressRegion": "TX",
+    "postalCode": "75024",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.0854315,
+    "longitude": -96.8383887
+  },
+  "areaServed": [
+    {
+      "@type": "PostalCode",
+      "postalCode": "75024"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "75056"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "75025"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "75034"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "75075"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "75013"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "75007"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "75074"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "90093"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "75036"
+    }
+  ],
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "07:00",
+      "closes": "23:00"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Drain Cleaning & Hydro Jetting Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Tankless Water Heater Installation & Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "4,000 PSI Hydro-Jetting & Main Sewer Clearing"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Trenchless Sewer Line Repair & Camera Inspection"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Electronic Slab Leak Detection & Whole-House Repiping"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "24/7 Emergency Plumber Dispatch & PRV Replacement"
+        }
+      }
+    ]
+  }
+}

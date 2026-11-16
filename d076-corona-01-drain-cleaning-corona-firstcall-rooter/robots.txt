@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andrey0002.github.io/pristine-plumbing-encino/d076-corona-01-drain-cleaning-corona-firstcall-rooter/sitemap.xml

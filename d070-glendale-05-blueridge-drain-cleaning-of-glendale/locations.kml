@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>BlueRidge Drain Cleaning of Glendale</name>
+    <Placemark>
+      <name>BlueRidge Drain Cleaning of Glendale</name>
+      <address>942 Allen Ave, Glendale, CA 91201</address>
+      <Point><coordinates>-118.2960889,34.1704353,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

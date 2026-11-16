@@ -1,0 +1,126 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Plumber",
+    "HomeAndConstructionBusiness",
+    "LocalBusiness"
+  ],
+  "@id": "https://andrey0002.github.io/pristine-plumbing-encino/d086-garland-01-drain-cleaning-garland-ironclad-rooter/#organization",
+  "name": "Drain Cleaning Garland - Ironclad Rooter",
+  "description": "Drain Cleaning Garland - Ironclad Rooter provides fast same-day drain cleaning in Garland, TX for residential and commercial properties across Garland and nearby neighborhoods. When you have a backed-up main sewer line, slow kitchen sink, overflowing floor drain, or root intrusion, our Garland drain cleaning specialists respond quickly with clear upfront pricing. We specialize in 4,000 PSI hydro jetting in Garland, sewer camera inspection, rooter snaking, grease trap clearing, and emergency clogged drain service. Property owners trust Drain Cleaning Garland - Ironclad Rooter for reliable drain cleaning in Garland backed by clean workmanship and lasting flow.",
+  "url": "https://andrey0002.github.io/pristine-plumbing-encino/d086-garland-01-drain-cleaning-garland-ironclad-rooter/",
+  "priceRange": "$$",
+  "additionalType": "https://www.productontology.org/id/Drain_cleaner",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "523 Shepherd Dr",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75042",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.9080129,
+    "longitude": -96.696889
+  },
+  "areaServed": [
+    {
+      "@type": "PostalCode",
+      "postalCode": "75042"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "75238"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "75243"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "75040"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "75044"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "75081"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "75231"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "75230"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "75041"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "75080"
+    }
+  ],
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "07:00",
+      "closes": "23:00"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Drain Cleaning & Hydro Jetting Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Tankless Water Heater Installation & Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "4,000 PSI Hydro-Jetting & Main Sewer Clearing"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Trenchless Sewer Line Repair & Camera Inspection"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Electronic Slab Leak Detection & Whole-House Repiping"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "24/7 Emergency Plumber Dispatch & PRV Replacement"
+        }
+      }
+    ]
+  }
+}

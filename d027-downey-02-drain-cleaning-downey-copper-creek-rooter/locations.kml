@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Drain Cleaning Downey - Copper Creek Rooter</name>
+    <Placemark>
+      <name>Drain Cleaning Downey - Copper Creek Rooter</name>
+      <address>10210 Lakewood Blvd, Downey, CA 90241</address>
+      <Point><coordinates>-118.1170534,33.9470701,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andrey0002.github.io/pristine-plumbing-encino/d017-orange-02-ironclad-drain-cleaning-of-orange/sitemap.xml

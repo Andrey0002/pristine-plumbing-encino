@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andrey0002.github.io/pristine-plumbing-encino/d085-irving-05-drain-cleaning-irving-copper-creek-rooter/sitemap.xml

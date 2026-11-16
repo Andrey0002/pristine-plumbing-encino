@@ -1,0 +1,126 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Plumber",
+    "HomeAndConstructionBusiness",
+    "LocalBusiness"
+  ],
+  "@id": "https://andrey0002.github.io/pristine-plumbing-encino/d006-garden-grove-01-drain-cleaning-garden-grove-evergreen-rooter/#organization",
+  "name": "Drain Cleaning Garden Grove - Evergreen Rooter",
+  "description": "Drain Cleaning Garden Grove - Evergreen Rooter provides fast same-day drain cleaning in Garden Grove, CA for residential and commercial properties across Garden Grove and nearby neighborhoods. When you have a backed-up main sewer line, slow kitchen sink, overflowing floor drain, or root intrusion, our Garden Grove drain cleaning specialists respond quickly with clear upfront pricing. We specialize in 4,000 PSI hydro jetting in Garden Grove, sewer camera inspection, rooter snaking, grease trap clearing, and emergency clogged drain service. Property owners trust Drain Cleaning Garden Grove - Evergreen Rooter for reliable drain cleaning in Garden Grove backed by clean workmanship and lasting flow.",
+  "url": "https://andrey0002.github.io/pristine-plumbing-encino/d006-garden-grove-01-drain-cleaning-garden-grove-evergreen-rooter/",
+  "priceRange": "$$",
+  "additionalType": "https://www.productontology.org/id/Drain_cleaner",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "11933 S Euclid St",
+    "addressLocality": "Garden Grove",
+    "addressRegion": "CA",
+    "postalCode": "92840",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.7894316,
+    "longitude": -117.9416023
+  },
+  "areaServed": [
+    {
+      "@type": "PostalCode",
+      "postalCode": "92840"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "92842"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "92812"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "92814"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "90093"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "92706"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "90680"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "90046"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "90028"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "92815"
+    }
+  ],
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "07:00",
+      "closes": "23:00"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Drain Cleaning & Hydro Jetting Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Tankless Water Heater Installation & Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "4,000 PSI Hydro-Jetting & Main Sewer Clearing"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Trenchless Sewer Line Repair & Camera Inspection"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Electronic Slab Leak Detection & Whole-House Repiping"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "24/7 Emergency Plumber Dispatch & PRV Replacement"
+        }
+      }
+    ]
+  }
+}

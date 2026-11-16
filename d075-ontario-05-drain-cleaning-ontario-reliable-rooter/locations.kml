@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Drain Cleaning Ontario - Reliable Rooter</name>
+    <Placemark>
+      <name>Drain Cleaning Ontario - Reliable Rooter</name>
+      <address>632 E California St, Ontario, CA 91761</address>
+      <Point><coordinates>-117.6422168,34.05542,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

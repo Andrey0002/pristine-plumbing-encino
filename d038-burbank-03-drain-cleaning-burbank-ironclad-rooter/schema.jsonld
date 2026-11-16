@@ -1,0 +1,126 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Plumber",
+    "HomeAndConstructionBusiness",
+    "LocalBusiness"
+  ],
+  "@id": "https://andrey0002.github.io/pristine-plumbing-encino/d038-burbank-03-drain-cleaning-burbank-ironclad-rooter/#organization",
+  "name": "Drain Cleaning Burbank - Ironclad Rooter",
+  "description": "Drain Cleaning Burbank - Ironclad Rooter provides fast same-day drain cleaning in Burbank, CA for residential and commercial properties across Burbank and nearby neighborhoods. When you have a backed-up main sewer line, slow kitchen sink, overflowing floor drain, or root intrusion, our Burbank drain cleaning specialists respond quickly with clear upfront pricing. We specialize in 4,000 PSI hydro jetting in Burbank, sewer camera inspection, rooter snaking, grease trap clearing, and emergency clogged drain service. Property owners trust Drain Cleaning Burbank - Ironclad Rooter for reliable drain cleaning in Burbank backed by clean workmanship and lasting flow.",
+  "url": "https://andrey0002.github.io/pristine-plumbing-encino/d038-burbank-03-drain-cleaning-burbank-ironclad-rooter/",
+  "priceRange": "$$",
+  "additionalType": "https://www.productontology.org/id/Drain_cleaner",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2627 N San Fernando Blvd",
+    "addressLocality": "Burbank",
+    "addressRegion": "CA",
+    "postalCode": "91504",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.1988477,
+    "longitude": -118.3397137
+  },
+  "areaServed": [
+    {
+      "@type": "PostalCode",
+      "postalCode": "91504"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "91505"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "91502"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "91352"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "90093"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "90028"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "90046"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "91601"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "91606"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "90004"
+    }
+  ],
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "07:00",
+      "closes": "23:00"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Drain Cleaning & Hydro Jetting Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Tankless Water Heater Installation & Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "4,000 PSI Hydro-Jetting & Main Sewer Clearing"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Trenchless Sewer Line Repair & Camera Inspection"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Electronic Slab Leak Detection & Whole-House Repiping"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "24/7 Emergency Plumber Dispatch & PRV Replacement"
+        }
+      }
+    ]
+  }
+}

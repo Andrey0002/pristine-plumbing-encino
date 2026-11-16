@@ -1,0 +1,126 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Plumber",
+    "HomeAndConstructionBusiness",
+    "LocalBusiness"
+  ],
+  "@id": "https://andrey0002.github.io/pristine-plumbing-encino/d030-downey-05-drain-cleaning-downey-solidrock-rooter/#organization",
+  "name": "Drain Cleaning Downey - SolidRock Rooter",
+  "description": "Drain Cleaning Downey - SolidRock Rooter provides fast same-day drain cleaning in Downey, CA for residential and commercial properties across Downey and nearby neighborhoods. When you have a backed-up main sewer line, slow kitchen sink, overflowing floor drain, or root intrusion, our Downey drain cleaning specialists respond quickly with clear upfront pricing. We specialize in 4,000 PSI hydro jetting in Downey, sewer camera inspection, rooter snaking, grease trap clearing, and emergency clogged drain service. Property owners trust Drain Cleaning Downey - SolidRock Rooter for reliable drain cleaning in Downey backed by clean workmanship and lasting flow.",
+  "url": "https://andrey0002.github.io/pristine-plumbing-encino/d030-downey-05-drain-cleaning-downey-solidrock-rooter/",
+  "priceRange": "$$",
+  "additionalType": "https://www.productontology.org/id/Drain_cleaner",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "7859 Florence Ave",
+    "addressLocality": "Downey",
+    "addressRegion": "CA",
+    "postalCode": "90240",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.954918,
+    "longitude": -118.1321822
+  },
+  "areaServed": [
+    {
+      "@type": "PostalCode",
+      "postalCode": "90240"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "90241"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "90201"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "90660"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "90242"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "90280"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "90093"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "90046"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "90028"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "90670"
+    }
+  ],
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "07:00",
+      "closes": "23:00"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Drain Cleaning & Hydro Jetting Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Tankless Water Heater Installation & Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "4,000 PSI Hydro-Jetting & Main Sewer Clearing"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Trenchless Sewer Line Repair & Camera Inspection"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Electronic Slab Leak Detection & Whole-House Repiping"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "24/7 Emergency Plumber Dispatch & PRV Replacement"
+        }
+      }
+    ]
+  }
+}

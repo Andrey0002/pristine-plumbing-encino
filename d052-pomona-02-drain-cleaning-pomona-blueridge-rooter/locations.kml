@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Drain Cleaning Pomona - BlueRidge Rooter</name>
+    <Placemark>
+      <name>Drain Cleaning Pomona - BlueRidge Rooter</name>
+      <address>169 San Lorenzo St, Pomona, CA 91766</address>
+      <Point><coordinates>-117.7256533,34.0588399,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

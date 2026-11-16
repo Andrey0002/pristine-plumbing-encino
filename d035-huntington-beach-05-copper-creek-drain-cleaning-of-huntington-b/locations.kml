@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Copper Creek Drain Cleaning of Huntington Beach</name>
+    <Placemark>
+      <name>Copper Creek Drain Cleaning of Huntington Beach</name>
+      <address>5404 Oceanus Dr, Huntington Beach, CA 92649</address>
+      <Point><coordinates>-118.0350777,33.7423118,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

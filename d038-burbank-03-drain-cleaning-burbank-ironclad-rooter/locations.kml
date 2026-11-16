@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Drain Cleaning Burbank - Ironclad Rooter</name>
+    <Placemark>
+      <name>Drain Cleaning Burbank - Ironclad Rooter</name>
+      <address>2627 N San Fernando Blvd, Burbank, CA 91504</address>
+      <Point><coordinates>-118.3397137,34.1988477,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

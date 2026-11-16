@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andrey0002.github.io/pristine-plumbing-encino/d020-orange-05-drain-cleaning-orange-pristine-rooter/sitemap.xml

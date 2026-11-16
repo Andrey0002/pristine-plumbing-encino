@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Drain Cleaning Huntington Beach - Harbor Rooter</name>
+    <Placemark>
+      <name>Drain Cleaning Huntington Beach - Harbor Rooter</name>
+      <address>5464 Oceanus Dr, Huntington Beach, CA 92649</address>
+      <Point><coordinates>-118.0336389,33.7423636,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

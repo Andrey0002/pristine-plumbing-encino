@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Drain Cleaning Burbank - Pristine Rooter</name>
+    <Placemark>
+      <name>Drain Cleaning Burbank - Pristine Rooter</name>
+      <address>2803 N San Fernando Blvd, Burbank, CA 91504</address>
+      <Point><coordinates>-118.3417014,34.2000064,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

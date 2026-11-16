@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Drain Cleaning Fullerton - Crestview Rooter</name>
+    <Placemark>
+      <name>Drain Cleaning Fullerton - Crestview Rooter</name>
+      <address>2436 Fender Ave, Fullerton, CA 92831</address>
+      <Point><coordinates>-117.8871102,33.8676513,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

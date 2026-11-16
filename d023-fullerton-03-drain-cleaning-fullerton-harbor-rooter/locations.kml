@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Drain Cleaning Fullerton - Harbor Rooter</name>
+    <Placemark>
+      <name>Drain Cleaning Fullerton - Harbor Rooter</name>
+      <address>677 S Placentia Ave, Fullerton, CA 92831</address>
+      <Point><coordinates>-117.881973,33.8640238,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

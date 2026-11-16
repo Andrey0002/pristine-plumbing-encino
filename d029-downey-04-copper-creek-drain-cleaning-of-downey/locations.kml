@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Copper Creek Drain Cleaning of Downey</name>
+    <Placemark>
+      <name>Copper Creek Drain Cleaning of Downey</name>
+      <address>10419 Lakewood Blvd, Downey, CA 90241</address>
+      <Point><coordinates>-118.11928,33.9442533,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>BlueRidge Drain Cleaning of Pomona</name>
+    <Placemark>
+      <name>BlueRidge Drain Cleaning of Pomona</name>
+      <address>905 4th St, Pomona, CA 91766</address>
+      <Point><coordinates>-117.7390239,34.0566502,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

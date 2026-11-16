@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Drain Cleaning Anaheim - Copper Creek Rooter</name>
+    <Placemark>
+      <name>Drain Cleaning Anaheim - Copper Creek Rooter</name>
+      <address>706 N Valley St, Anaheim, CA 92801</address>
+      <Point><coordinates>-117.9564255,33.8414223,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

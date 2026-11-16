@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andrey0002.github.io/pristine-plumbing-encino/d083-irving-03-drain-cleaning-irving-harbor-rooter/sitemap.xml

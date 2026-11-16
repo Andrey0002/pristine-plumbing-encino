@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Drain Cleaning Pasadena - ClearLine Rooter</name>
+    <Placemark>
+      <name>Drain Cleaning Pasadena - ClearLine Rooter</name>
+      <address>467 S Arroyo Pkwy, Pasadena, CA 91105</address>
+      <Point><coordinates>-118.1477952,34.1376058,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

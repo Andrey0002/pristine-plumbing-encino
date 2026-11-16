@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Drain Cleaning Garden Grove - Evergreen Rooter</name>
+    <Placemark>
+      <name>Drain Cleaning Garden Grove - Evergreen Rooter</name>
+      <address>11933 S Euclid St, Garden Grove, CA 92840</address>
+      <Point><coordinates>-117.9416023,33.7894316,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

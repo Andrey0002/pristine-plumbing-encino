@@ -1,0 +1,126 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Plumber",
+    "HomeAndConstructionBusiness",
+    "LocalBusiness"
+  ],
+  "@id": "https://andrey0002.github.io/pristine-plumbing-encino/d071-ontario-01-drain-cleaning-ontario-solidrock-rooter/#organization",
+  "name": "Drain Cleaning Ontario - SolidRock Rooter",
+  "description": "Drain Cleaning Ontario - SolidRock Rooter provides fast same-day drain cleaning in Ontario, CA for residential and commercial properties across Ontario and nearby neighborhoods. When you have a backed-up main sewer line, slow kitchen sink, overflowing floor drain, or root intrusion, our Ontario drain cleaning specialists respond quickly with clear upfront pricing. We specialize in 4,000 PSI hydro jetting in Ontario, sewer camera inspection, rooter snaking, grease trap clearing, and emergency clogged drain service. Property owners trust Drain Cleaning Ontario - SolidRock Rooter for reliable drain cleaning in Ontario backed by clean workmanship and lasting flow.",
+  "url": "https://andrey0002.github.io/pristine-plumbing-encino/d071-ontario-01-drain-cleaning-ontario-solidrock-rooter/",
+  "priceRange": "$$",
+  "additionalType": "https://www.productontology.org/id/Drain_cleaner",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1237 E Francis St",
+    "addressLocality": "Ontario",
+    "addressRegion": "CA",
+    "postalCode": "91761",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.0412267,
+    "longitude": -117.62667
+  },
+  "areaServed": [
+    {
+      "@type": "PostalCode",
+      "postalCode": "91761"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "91762"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "91743"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "90093"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "91708"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "91785"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "91729"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "90046"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "90028"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "91763"
+    }
+  ],
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "07:00",
+      "closes": "23:00"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Drain Cleaning & Hydro Jetting Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Tankless Water Heater Installation & Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "4,000 PSI Hydro-Jetting & Main Sewer Clearing"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Trenchless Sewer Line Repair & Camera Inspection"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Electronic Slab Leak Detection & Whole-House Repiping"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "24/7 Emergency Plumber Dispatch & PRV Replacement"
+        }
+      }
+    ]
+  }
+}

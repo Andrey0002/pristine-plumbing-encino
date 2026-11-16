@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Harbor Drain Cleaning of Plano</name>
+    <Placemark>
+      <name>Harbor Drain Cleaning of Plano</name>
+      <address>7952 Legacy Dr, Plano, TX 75024</address>
+      <Point><coordinates>-96.8383887,33.0854315,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

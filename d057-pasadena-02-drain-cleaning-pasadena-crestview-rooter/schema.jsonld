@@ -1,0 +1,126 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Plumber",
+    "HomeAndConstructionBusiness",
+    "LocalBusiness"
+  ],
+  "@id": "https://andrey0002.github.io/pristine-plumbing-encino/d057-pasadena-02-drain-cleaning-pasadena-crestview-rooter/#organization",
+  "name": "Drain Cleaning Pasadena - Crestview Rooter",
+  "description": "Drain Cleaning Pasadena - Crestview Rooter provides fast same-day drain cleaning in Pasadena, CA for residential and commercial properties across Pasadena and nearby neighborhoods. When you have a backed-up main sewer line, slow kitchen sink, overflowing floor drain, or root intrusion, our Pasadena drain cleaning specialists respond quickly with clear upfront pricing. We specialize in 4,000 PSI hydro jetting in Pasadena, sewer camera inspection, rooter snaking, grease trap clearing, and emergency clogged drain service. Property owners trust Drain Cleaning Pasadena - Crestview Rooter for reliable drain cleaning in Pasadena backed by clean workmanship and lasting flow.",
+  "url": "https://andrey0002.github.io/pristine-plumbing-encino/d057-pasadena-02-drain-cleaning-pasadena-crestview-rooter/",
+  "priceRange": "$$",
+  "additionalType": "https://www.productontology.org/id/Drain_cleaner",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "512 S Fair Oaks Ave",
+    "addressLocality": "Pasadena",
+    "addressRegion": "CA",
+    "postalCode": "91105",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 34.1369978,
+    "longitude": -118.1501083
+  },
+  "areaServed": [
+    {
+      "@type": "PostalCode",
+      "postalCode": "91105"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "91101"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "91106"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "91109"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "91030"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "90041"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "90093"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "90028"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "90046"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "90042"
+    }
+  ],
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "07:00",
+      "closes": "23:00"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Drain Cleaning & Hydro Jetting Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Tankless Water Heater Installation & Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "4,000 PSI Hydro-Jetting & Main Sewer Clearing"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Trenchless Sewer Line Repair & Camera Inspection"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Electronic Slab Leak Detection & Whole-House Repiping"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "24/7 Emergency Plumber Dispatch & PRV Replacement"
+        }
+      }
+    ]
+  }
+}

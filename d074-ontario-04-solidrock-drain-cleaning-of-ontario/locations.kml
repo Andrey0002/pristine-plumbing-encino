@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>SolidRock Drain Cleaning of Ontario</name>
+    <Placemark>
+      <name>SolidRock Drain Cleaning of Ontario</name>
+      <address>632 S Bon View Ave, Ontario, CA 91761</address>
+      <Point><coordinates>-117.6370012,34.0570377,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

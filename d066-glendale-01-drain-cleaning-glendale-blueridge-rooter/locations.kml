@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Drain Cleaning Glendale - BlueRidge Rooter</name>
+    <Placemark>
+      <name>Drain Cleaning Glendale - BlueRidge Rooter</name>
+      <address>2062 E Chevy Chase Dr, Glendale, CA 91206</address>
+      <Point><coordinates>-118.2227607,34.1562217,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

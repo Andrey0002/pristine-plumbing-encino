@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Drain Cleaning Corona - FirstCall Rooter</name>
+    <Placemark>
+      <name>Drain Cleaning Corona - FirstCall Rooter</name>
+      <address>4742 Green River Rd, Corona, CA 92878</address>
+      <Point><coordinates>-117.6608857,33.8770777,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

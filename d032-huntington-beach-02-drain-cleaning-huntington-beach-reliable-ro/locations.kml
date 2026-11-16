@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Drain Cleaning Huntington Beach - Reliable Rooter</name>
+    <Placemark>
+      <name>Drain Cleaning Huntington Beach - Reliable Rooter</name>
+      <address>5263 Business Dr, Huntington Beach, CA 92649</address>
+      <Point><coordinates>-118.036939,33.7395404,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

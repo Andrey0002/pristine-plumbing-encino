@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andrey0002.github.io/pristine-plumbing-encino/d071-ontario-01-drain-cleaning-ontario-solidrock-rooter/sitemap.xml

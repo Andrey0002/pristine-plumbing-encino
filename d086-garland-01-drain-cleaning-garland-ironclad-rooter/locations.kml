@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Drain Cleaning Garland - Ironclad Rooter</name>
+    <Placemark>
+      <name>Drain Cleaning Garland - Ironclad Rooter</name>
+      <address>523 Shepherd Dr, Garland, TX 75042</address>
+      <Point><coordinates>-96.696889,32.9080129,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

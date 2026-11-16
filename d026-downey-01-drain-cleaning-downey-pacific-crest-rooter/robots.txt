@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andrey0002.github.io/pristine-plumbing-encino/d026-downey-01-drain-cleaning-downey-pacific-crest-rooter/sitemap.xml

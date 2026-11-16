@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Drain Cleaning Anaheim - ClearLine Rooter</name>
+    <Placemark>
+      <name>Drain Cleaning Anaheim - ClearLine Rooter</name>
+      <address>2523 W Vía Palma, Anaheim, CA 92801</address>
+      <Point><coordinates>-117.9735296,33.8478236,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

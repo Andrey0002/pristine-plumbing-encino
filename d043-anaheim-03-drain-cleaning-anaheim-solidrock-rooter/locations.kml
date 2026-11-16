@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Drain Cleaning Anaheim - SolidRock Rooter</name>
+    <Placemark>
+      <name>Drain Cleaning Anaheim - SolidRock Rooter</name>
+      <address>2123 W Crescent Ave, Anaheim, CA 92801</address>
+      <Point><coordinates>-117.9558644,33.8402196,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

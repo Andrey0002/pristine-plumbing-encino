@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andrey0002.github.io/pristine-plumbing-encino/d053-pomona-03-drain-cleaning-pomona-reliable-rooter/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andrey0002.github.io/pristine-plumbing-encino/d095-plano-05-drain-cleaning-plano-solidrock-rooter/sitemap.xml

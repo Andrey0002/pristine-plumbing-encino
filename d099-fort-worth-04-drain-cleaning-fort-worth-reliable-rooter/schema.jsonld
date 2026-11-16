@@ -1,0 +1,126 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Plumber",
+    "HomeAndConstructionBusiness",
+    "LocalBusiness"
+  ],
+  "@id": "https://andrey0002.github.io/pristine-plumbing-encino/d099-fort-worth-04-drain-cleaning-fort-worth-reliable-rooter/#organization",
+  "name": "Drain Cleaning Fort Worth - Reliable Rooter",
+  "description": "Drain Cleaning Fort Worth - Reliable Rooter provides fast same-day drain cleaning in Fort Worth, TX for residential and commercial properties across Fort Worth and nearby neighborhoods. When you have a backed-up main sewer line, slow kitchen sink, overflowing floor drain, or root intrusion, our Fort Worth drain cleaning specialists respond quickly with clear upfront pricing. We specialize in 4,000 PSI hydro jetting in Fort Worth, sewer camera inspection, rooter snaking, grease trap clearing, and emergency clogged drain service. Property owners trust Drain Cleaning Fort Worth - Reliable Rooter for reliable drain cleaning in Fort Worth backed by clean workmanship and lasting flow.",
+  "url": "https://andrey0002.github.io/pristine-plumbing-encino/d099-fort-worth-04-drain-cleaning-fort-worth-reliable-rooter/",
+  "priceRange": "$$",
+  "additionalType": "https://www.productontology.org/id/Drain_cleaner",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5147 Martin Luther King Jr Fwy",
+    "addressLocality": "Fort Worth",
+    "addressRegion": "TX",
+    "postalCode": "76119",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.6944832,
+    "longitude": -97.244443
+  },
+  "areaServed": [
+    {
+      "@type": "PostalCode",
+      "postalCode": "76119"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "76105"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "76102"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "90093"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "76017"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "76060"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "76004"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "76112"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "76018"
+    },
+    {
+      "@type": "PostalCode",
+      "postalCode": "76015"
+    }
+  ],
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "07:00",
+      "closes": "23:00"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Drain Cleaning & Hydro Jetting Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Tankless Water Heater Installation & Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "4,000 PSI Hydro-Jetting & Main Sewer Clearing"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Trenchless Sewer Line Repair & Camera Inspection"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Electronic Slab Leak Detection & Whole-House Repiping"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "24/7 Emergency Plumber Dispatch & PRV Replacement"
+        }
+      }
+    ]
+  }
+}

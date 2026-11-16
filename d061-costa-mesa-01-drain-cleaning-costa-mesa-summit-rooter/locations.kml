@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Drain Cleaning Costa Mesa - Summit Rooter</name>
+    <Placemark>
+      <name>Drain Cleaning Costa Mesa - Summit Rooter</name>
+      <address>2238 Pacific Ave, Costa Mesa, CA 92627</address>
+      <Point><coordinates>-117.943363,33.6555979,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

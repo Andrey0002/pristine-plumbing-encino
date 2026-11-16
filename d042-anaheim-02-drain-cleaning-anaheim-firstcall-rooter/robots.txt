@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andrey0002.github.io/pristine-plumbing-encino/d042-anaheim-02-drain-cleaning-anaheim-firstcall-rooter/sitemap.xml

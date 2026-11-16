@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Drain Cleaning Burbank - BlueRidge Rooter</name>
+    <Placemark>
+      <name>Drain Cleaning Burbank - BlueRidge Rooter</name>
+      <address>2418 W Victory Blvd, Burbank, CA 91506</address>
+      <Point><coordinates>-118.3374722,34.1843295,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

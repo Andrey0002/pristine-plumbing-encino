@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Drain Cleaning Plano - SolidRock Rooter</name>
+    <Placemark>
+      <name>Drain Cleaning Plano - SolidRock Rooter</name>
+      <address>2042 Spring Creek Pkwy, Plano, TX 75023</address>
+      <Point><coordinates>-96.7315939,33.0577859,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

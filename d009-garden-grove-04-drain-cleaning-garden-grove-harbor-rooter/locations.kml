@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Drain Cleaning Garden Grove - Harbor Rooter</name>
+    <Placemark>
+      <name>Drain Cleaning Garden Grove - Harbor Rooter</name>
+      <address>11382 Knott St, Garden Grove, CA 92841</address>
+      <Point><coordinates>-118.0105126,33.7976434,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

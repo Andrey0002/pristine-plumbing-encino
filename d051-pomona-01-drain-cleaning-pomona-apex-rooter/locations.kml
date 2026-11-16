@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Drain Cleaning Pomona - Apex Rooter</name>
+    <Placemark>
+      <name>Drain Cleaning Pomona - Apex Rooter</name>
+      <address>1589 E Grand Ave, Pomona, CA 91766</address>
+      <Point><coordinates>-117.7248142,34.0488438,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

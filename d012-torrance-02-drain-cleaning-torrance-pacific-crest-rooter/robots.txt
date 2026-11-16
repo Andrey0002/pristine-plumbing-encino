@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andrey0002.github.io/pristine-plumbing-encino/d012-torrance-02-drain-cleaning-torrance-pacific-crest-rooter/sitemap.xml
